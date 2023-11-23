@@ -1,0 +1,14 @@
+Git commands:
+=================
+
+git clone <ssh_url> : To download a copy of remote repo
+git checkout <branch_name> : To switch branches
+
+
+How to checkin a file?
+
+git add <file_name> : Add to index/staging area (rehearsal)
+git commit -m "<commit_message>": commit (saying we are ready)
+git push : push (upload)
+
+
