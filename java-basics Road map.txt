@@ -1,0 +1,18 @@
+java-basics: Road map
+
+Naming conventions
+Data types
+operators
+control statments
+
+OOPS
+ - Abstraction
+ - Inheritence
+ - Encapsulation
+ - Polymorphism
+
+Collection framework
+Exception handling
+Interfaces
+Abstract classes
+methods and method calls and parameters
