@@ -4,6 +4,8 @@ Git commands:
 git clone <ssh_url> : To download a copy of remote repo
 git checkout <branch_name> : To switch branches
 git branch : To know current branch you are working on.
+git status: Use this command at any point of time, to know what to do.
+git restore <file_name> : To revert back all your changes.
 
 
 How to checkin a file?
