@@ -3,6 +3,7 @@ Git commands:
 
 git clone <ssh_url> : To download a copy of remote repo
 git checkout <branch_name> : To switch branches
+git branch : To know current branch you are working on.
 
 
 How to checkin a file?
